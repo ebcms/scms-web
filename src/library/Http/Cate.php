@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace App\Ebcms\ScmsWeb\Http;
 
-use DigPHP\Request\Request;
-use DigPHP\Template\Template;
+use DiggPHP\Request\Request;
+use DiggPHP\Template\Template;
 
 class Cate extends Common
 {

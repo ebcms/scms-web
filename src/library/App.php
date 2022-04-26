@@ -9,10 +9,10 @@ use App\Ebcms\ScmsWeb\Http\Column;
 use App\Ebcms\ScmsWeb\Http\Content;
 use App\Ebcms\ScmsWeb\Http\Index;
 use App\Ebcms\ScmsWeb\Http\Site;
-use DigPHP\Database\Db;
-use Ebcms\Framework\AppInterface;
-use DigPHP\Router\Collector;
-use DigPHP\Router\Router;
+use DiggPHP\Database\Db;
+use DiggPHP\Framework\AppInterface;
+use DiggPHP\Router\Collector;
+use DiggPHP\Router\Router;
 
 class App implements AppInterface
 {

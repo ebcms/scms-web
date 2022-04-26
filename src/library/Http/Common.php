@@ -6,9 +6,9 @@ namespace App\Ebcms\ScmsWeb\Http;
 
 use App\Ebcms\Admin\Traits\ResponseTrait;
 use App\Ebcms\Admin\Traits\RestfulTrait;
-use DigPHP\Database\Db;
-use DigPHP\Request\Request;
-use DigPHP\Template\Template;
+use DiggPHP\Database\Db;
+use DiggPHP\Request\Request;
+use DiggPHP\Template\Template;
 
 abstract class Common
 {

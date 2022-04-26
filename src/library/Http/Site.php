@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace App\Ebcms\ScmsWeb\Http;
 
-use DigPHP\Database\Db;
-use DigPHP\Template\Template;
+use DiggPHP\Database\Db;
+use DiggPHP\Template\Template;
 
 class Site extends Common
 {

@@ -10,8 +10,8 @@ use App\Ebcms\Scms\Model\Column;
 use App\Ebcms\Scms\Model\Content as ModelContent;
 use App\Ebcms\Scms\Model\Field;
 use App\Ebcms\Scms\Model\Model;
-use DigPHP\Request\Request;
-use DigPHP\Template\Template;
+use DiggPHP\Request\Request;
+use DiggPHP\Template\Template;
 
 class Content extends Common
 {
